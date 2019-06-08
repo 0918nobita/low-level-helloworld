@@ -1,0 +1,7 @@
+{
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "lldb.displayFormat": "auto",
+  "lldb.showDisassembly": "always",
+  "lldb.dereferencePointers": true
+}
